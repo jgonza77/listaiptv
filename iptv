@@ -1,0 +1,545 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="-----SPAIN-----" tvg-logo="http://picon.webhop.net/logo/flag/spain.png" group-title="SP TDT",-----SPAIN-----
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/135943
+#EXTINF:-1 tvg-ID="24H ASTRA SD 1.sp" tvg-name="ES: 24 Horas" tvg-logo="http://picon.webhop.net/logo/spain/tve_canal_24horas.png" group-title="SP TDT",ES: 24 Horas
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14469
+#EXTINF:-1 tvg-ID="TVE ASTRA HD 1.sp" tvg-name="ES: LA 1 HD" tvg-logo="http://picon.webhop.net/logo/spain/tve1_es.png" group-title="SP TDT",ES: LA 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14476
+#EXTINF:-1 tvg-ID="LA2 TDT HD 2.sp" tvg-name="ES: LA 2 HD" tvg-logo="http://picon.webhop.net/logo/spain/tve2.png" group-title="SP TDT",ES: LA 2 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14475
+#EXTINF:-1 tvg-ID="A3 ASTRA HD 1.sp" tvg-name="ES: Antena 3 HD" tvg-logo="http://picon.webhop.net/logo/spain/antena3.png" group-title="SP TDT",ES: Antena 3 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14478
+#EXTINF:-1 tvg-ID="C4 ASTRA HD 1.sp" tvg-name="ES: Cuatro HD" tvg-logo="http://picon.webhop.net/logo/spain/cuatro_es.png" group-title="SP TDT",ES: Cuatro HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14473
+#EXTINF:-1 tvg-ID="T5 ASTRA HD 1.sp" tvg-name="ES: Telecinco HD" tvg-logo="http://picon.webhop.net/logo/spain/telecinco.png" group-title="SP TDT",ES: Telecinco HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14472
+#EXTINF:-1 tvg-ID="SEXTA ASTRA HD 1.sp" tvg-name="ES: La Sexta HD" tvg-logo="http://picon.webhop.net/logo/spain/la_sexta_es.png" group-title="SP TDT",ES: La Sexta HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14474
+#EXTINF:-1 tvg-ID="NOVA ASTRA SD 1.sp" tvg-name="ES: Nova" tvg-logo="http://picon.webhop.net/logo/spain/antena_nova.png" group-title="SP TDT",ES: Nova
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14460
+#EXTINF:-1 tvg-ID="NEOX ASTRA SD 1.sp" tvg-name="ES: Neox" tvg-logo="http://picon.webhop.net/logo/spain/antena_neox.png" group-title="SP TDT",ES: Neox
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14446
+#EXTINF:-1 tvg-ID="ANTV ASTRA SD 1.sp" tvg-name="ES: CANAL SUR A" tvg-logo="" group-title="SP TDT",ES: CANAL SUR A
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/164678
+#EXTINF:-1 tvg-ID="ARAGON ASTRA SD 1.sp" tvg-name="ES: ARAGON TV" tvg-logo="" group-title="SP TDT",ES: ARAGON TV
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162339
+#EXTINF:-1 tvg-ID="EXTREM ASTRA SD 1.sp" tvg-name="ES: Extremadura TV" tvg-logo="http://picon.webhop.net/logo/spain/canal_extremadura.png" group-title="SP TDT",ES: Extremadura TV
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14456
+#EXTINF:-1 tvg-ID="ANTV TDT SD 4.sp" tvg-name="ES: CANAL SUR ANDALUCIA" tvg-logo="" group-title="SP TDT",ES: CANAL SUR ANDALUCIA
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/169730
+#EXTINF:-1 tvg-ID="24H ASTRA SD 1.sp" tvg-name="ES: CANAL 24 HORAS" tvg-logo="http://picon.webhop.net/logo/spain/tve_canal_24horas.png" group-title="SP TDT",ES: CANAL 24 HORAS
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/136458
+#EXTINF:-1 tvg-ID="FOXNWS ASTRA SD 1.sp" tvg-name="ES: FOX NEWS" tvg-logo="" group-title="SP TDT",ES: FOX NEWS
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162506
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Dkiss HD" tvg-logo="" group-title="SPAIN",ES: Dkiss HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/217807
+#EXTINF:-1 tvg-ID="" tvg-name="----- DEPORTES -----" tvg-logo="http://picon.webhop.net/logo/flag/spain.png" group-title="SP DEPORTES",----- DEPORTES -----
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178157
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Bein Sports HD" tvg-logo="http://picon.webhop.net/logo/spain/be_in_mena_sports_es.png" group-title="SP DEPORTES",ES: Bein Sports HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14412
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES:  VAMOS HD" tvg-logo="" group-title="SP DEPORTES",ES:  VAMOS HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/210552
+#EXTINF:-1 tvg-ID="TDEP ASTRA SD 1.sp" tvg-name="ES: Teledeporte HD" tvg-logo="" group-title="SP DEPORTES",ES: Teledeporte HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178734
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar Futbol HD" tvg-logo="" group-title="SP DEPORTES",ES: Movistar Futbol HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/174640
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar Deportes 1" tvg-logo="" group-title="SP DEPORTES",ES: Movistar Deportes 1
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/174639
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Eurosport 1 HD" tvg-logo="http://picon.webhop.net/logo/France-Sorcier/eurosport_fr_1.png" group-title="SP DEPORTES",ES: Eurosport 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14410
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar F1 HD" tvg-logo="http://picon.webhop.net/logo/spain/movistar_es_formula_1.png" group-title="SP DEPORTES",ES: Movistar F1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14405
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar Golf" tvg-logo="http://picon.webhop.net/logo/spain/movistar_es_golf.png" group-title="SP DEPORTES",ES: Movistar Golf
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14402
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Eurosport 1" tvg-logo="" group-title="SP DEPORTES",ES: Eurosport 1
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/164680
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar MotoGP HD" tvg-logo="http://picon.webhop.net/logo/spain/movistar_es_moto_gp.png" group-title="SP DEPORTES",ES: Movistar MotoGP HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14404
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL TOROS" tvg-logo="http://picon.webhop.net/logo/spain/toros_tv_es.png" group-title="SP DEPORTES",ES: CANAL TOROS
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/13908
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Real Madrid TV" tvg-logo="http://picon.webhop.net/logo/spain/real_madrid_tv_es.png" group-title="SP DEPORTES",ES: Real Madrid TV
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14398
+#EXTINF:-1 tvg-ID="BARNA ASTRA SD 1.sp" tvg-name="ES: Barca TV" tvg-logo="http://picon.webhop.net/logo/spain/barca_tv.png" group-title="SP DEPORTES",ES: Barca TV
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14399
+#EXTINF:-1 tvg-ID="" tvg-name="----- CINE -----" tvg-logo="http://picon.webhop.net/logo/flag/spain.png" group-title="SP CINE",----- CINE -----
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178155
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar Estrenos HD" tvg-logo="" group-title="SPAIN",ES: Movistar Estrenos HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/174638
+#EXTINF:-1 tvg-ID="CPACCI ASTRA HD 1.sp" tvg-name="ES: Movistar Action HD" tvg-logo="" group-title="SP CINE",ES: Movistar Action HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/174636
+#EXTINF:-1 tvg-ID="CPCOME ASTRA HD 1.sp" tvg-name="ES: Movistar Comedia HD" tvg-logo="" group-title="SP CINE",ES: Movistar Comedia HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/174637
+#EXTINF:-1 tvg-ID="CPCOLE ASTRA HD 1.sp" tvg-name="ES: Movistar DCine HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/DCineEspa%C3%B1ol2.png/revision/latest?cb=20160818144525" group-title="SP CINE",ES: Movistar DCine HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14419
+#EXTINF:-1 tvg-ID="CPSER ASTRA HD 1.sp" tvg-name="ES: Movistar Series HD" tvg-logo="http://picon.webhop.net/logo/spain/movistar_es_series.png" group-title="SP SERIES",ES: Movistar Series HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14417
+#EXTINF:-1 tvg-ID="MV2 ASTRA HD 1.sp" tvg-name="ES: Movistar Series Xtra HD" tvg-logo="http://picon.webhop.net/logo/spain/movistar_es_series_xtra.png" group-title="SP SERIES",ES: Movistar Series Xtra HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14416
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Atreseries HD" tvg-logo="" group-title="SPAIN",ES: Atreseries HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211183
+#EXTINF:-1 tvg-ID="CPXTRA ASTRA HD 1.sp" tvg-name="ES: Movistar Xtra HD" tvg-logo="http://picon.webhop.net/logo/spain/movistar_es_xtra.png" group-title="SP CINE",ES: Movistar Xtra HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14415
+#EXTINF:-1 tvg-ID="SUNDAN ASTRA SD 1.sp" tvg-name="ES: SUNDANCE HD" tvg-logo="" group-title="SP CINE",ES: SUNDANCE HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162519
+#EXTINF:-1 tvg-ID="PCM ASTRA HD 1.sp" tvg-name="ES: Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Comedy_central_hd.png" group-title="SP TDT",ES: Comedy Central HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14468
+#EXTINF:-1 tvg-ID="TNT ASTRA HD 1.sp" tvg-name="ES: TNT HD" tvg-logo="" group-title="SP CINE",ES: TNT HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162354
+#EXTINF:-1 tvg-ID="MEGA TDT SD 1.sp" tvg-name="ES: Mega" tvg-logo="http://www.latinsonghall.com/access/wp-content/uploads/2013/03/logo-megatv-300x300.png" group-title="SP TDT",ES: Mega
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14461
+#EXTINF:-1 tvg-ID="COSMO ASTRA HD 1.sp" tvg-name="ES: Cosmo" tvg-logo="http://picon.webhop.net/logo/spain/cosmopolitan_tv_es.png" group-title="SP TDT",ES: Cosmo
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14466
+#EXTINF:-1 tvg-ID="HOLLYW ASTRA HD 1.sp" tvg-name="ES: Canal Hollywood HD" tvg-logo="http://picon.webhop.net/logo/spain/canal_hollywood_es_hd.png" group-title="SP CINE",ES: Canal Hollywood HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/136459
+#EXTINF:-1 tvg-ID="CL13 ASTRA HD 1.sp" tvg-name="ES: CALLE 13 HD" tvg-logo="http://picon.webhop.net/logo/spain/calle13_universal_hd.png" group-title="SP CINE",ES: CALLE 13 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/133322
+#EXTINF:-1 tvg-ID="AMC ASTRA HD 1.sp" tvg-name="ES: AMC HD" tvg-logo="" group-title="SP CINE",ES: AMC HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162335
+#EXTINF:-1 tvg-ID="AXN ASTRA HD 1.sp" tvg-name="ES: AXN HD" tvg-logo="http://picon.webhop.net/logo/spain/axn_global_hd.png" group-title="SP SERIES",ES: AXN HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14431
+#EXTINF:-1 tvg-ID="AXN ASTRA SD 2.sp" tvg-name="ES: AXN FHD" tvg-logo="" group-title="SP SERIES",ES: AXN FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162338
+#EXTINF:-1 tvg-ID="SET ASTRA HD 1.sp" tvg-name="ES: AXN White HD" tvg-logo="http://picon.webhop.net/logo/spain/axn_white_es.png" group-title="SP SERIES",ES: AXN White HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14430
+#EXTINF:-1 tvg-ID="FOXGE ASTRA SD 2.sp" tvg-name="ES: Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_fox_magazinenegru.png" group-title="SP SERIES",ES: Fox
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14427
+#EXTINF:-1 tvg-ID="FOXGE ASTRA HD 1.sp" tvg-name="ES: Fox HD" tvg-logo="https://mbtskoudsalg.com/images/fox-tv-png-8.png" group-title="SP SERIES",ES: Fox HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14428
+#EXTINF:-1 tvg-ID="FOXCR ASTRA HD 1.sp" tvg-name="ES: Fox Life HD" tvg-logo="http://picon.webhop.net/logo/spain/life_tv_es.png" group-title="SP SERIES",ES: Fox Life HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14426
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TCM" tvg-logo="http://picon.webhop.net/logo/spain/tcm_global.png" group-title="SP CINE",ES: TCM
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14423
+#EXTINF:-1 tvg-ID="SCI-FI ASTRA HD 1.sp" tvg-name="ES: Syfy HD" tvg-logo="https://sm.ign.com/t/ign_fr/screenshot/default/syfy-logo-25th-anniversary_14fr.1920.jpg" group-title="SP CINE",ES: Syfy HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14424
+#EXTINF:-1 tvg-ID="PARCH ASTRA SD 1.sp" tvg-name="ES: Paramount Channel" tvg-logo="" group-title="SP CINE",ES: Paramount Channel
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162448
+#EXTINF:-1 tvg-ID="TQ1 ASTRA SD 1.sp" tvg-name="ES: Alquiler HD 1" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 1
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178652
+#EXTINF:-1 tvg-ID="TQ2 ASTRA SD 1.sp" tvg-name="ES: Alquiler HD 2" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 2
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178651
+#EXTINF:-1 tvg-ID="TQ3 ASTRA SD 1.sp" tvg-name="ES: Alquiler HD 3" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 3
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178650
+#EXTINF:-1 tvg-ID="TQ4 ASTRA SD 1.sp" tvg-name="ES: Alquiler HD 4" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 4
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178649
+#EXTINF:-1 tvg-ID="TQ5 ASTRA SD 1.sp" tvg-name="ES: Alquiler HD 5" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 5
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178648
+#EXTINF:-1 tvg-ID="TQ6 ASTRA SD 1.sp" tvg-name="ES: Alquiler HD 6" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 6
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178647
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Alquiler HD 7" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 7
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178646
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Alquiler HD 8" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 8
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178645
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Alquiler HD 9" tvg-logo="" group-title="SP CINE",ES: Alquiler HD 9
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178644
+#EXTINF:-1 tvg-ID="" tvg-name="----- MUSIC -----" tvg-logo="http://picon.webhop.net/logo/flag/spain.png" group-title="SP MUSIC",----- MUSIC -----
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178159
+#EXTINF:-1 tvg-ID="MTV ASTRA SD 1.sp" tvg-name="ES: MTV" tvg-logo="" group-title="SP MUSIC",ES: MTV
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162484
+#EXTINF:-1 tvg-ID="VH1 ASTRA SD 1.sp" tvg-name="ES: MTV" tvg-logo="" group-title="SP MUSIC",ES: MTV
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162487
+#EXTINF:-1 tvg-ID="" tvg-name="----- INFANTIL -----" tvg-logo="http://picon.webhop.net/logo/flag/spain.png" group-title="SP INFANTIL",----- INFANTIL -----
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178160
+#EXTINF:-1 tvg-ID="CLANTV ASTRA SD 1.sp" tvg-name="ES: CLAN TVE" tvg-logo="http://picon.webhop.net/logo/spain/toros_tv_es.png" group-title="SP TDT",ES: CLAN TVE
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14400
+#EXTINF:-1 tvg-ID="BABY ASTRA SD 1.sp" tvg-name="ES: BABYTV" tvg-logo="" group-title="SP INFANTIL",ES: BABYTV
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/162490
+#EXTINF:-1 tvg-ID="BOING ASTRA SD 1.sp" tvg-name="ES: Boing" tvg-logo="http://picon.webhop.net/logo/spain/boing_es.png" group-title="SP INFANTIL",ES: Boing
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14450
+#EXTINF:-1 tvg-ID="PLAYDC ASTRA SD 1.sp" tvg-name="ES: Disney Junior" tvg-logo="http://picon.webhop.net/logo/spain/disney_junior_us.png" group-title="SP INFANTIL",ES: Disney Junior
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14448
+#EXTINF:-1 tvg-ID="NICKJR ASTRA SD 1.sp" tvg-name="ES: Nick JR" tvg-logo="http://picon.webhop.net/logo/spain/nick_jr_us.png" group-title="SP INFANTIL",ES: Nick JR
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14444
+#EXTINF:-1 tvg-ID="NICK ASTRA HD 1.sp" tvg-name="ES: Nickelodeon HD" tvg-logo="http://picon.webhop.net/logo/spain/nickelodeon_us.png" group-title="SP INFANTIL",ES: Nickelodeon HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14445
+#EXTINF:-1 tvg-ID="" tvg-name="------ DOCUMENTALES ------" tvg-logo="http://picon.webhop.net/logo/flag/spain.png" group-title="SP DOCUMENTALES",------ DOCUMENTALES ------
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178158
+#EXTINF:-1 tvg-ID="HIST ASTRA SD 1.sp" tvg-name="ES: HISTORIA" tvg-logo="http://picon.webhop.net/logo/spain/historia_es.png" group-title="SP DOCUMENTALES",ES: HISTORIA
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14439
+#EXTINF:-1 tvg-ID="NATGW ASTRA HD 1.sp" tvg-name="ES: NAT GEO WILD" tvg-logo="" group-title="SP DOCUMENTALES",ES: NAT GEO WILD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/164679
+#EXTINF:-1 tvg-ID="CYM ASTRA SD 1.sp" tvg-name="ES: Crimen Investigacion" tvg-logo="http://picon.webhop.net/logo/spain/crimen_investigacion.png" group-title="SP DOCUMENTALES",ES: Crimen Investigacion
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14441
+#EXTINF:-1 tvg-ID="DCR ASTRA SD 1.sp" tvg-name="ES: Discovery Channel" tvg-logo="http://picon.webhop.net/logo/France-Sorcier/discovery_global_us.png" group-title="SP DOCUMENTALES",ES: Discovery Channel
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14440
+#EXTINF:-1 tvg-ID="CAZPES ASTRA SD 2.sp" tvg-name="ES: Caza y Pesca" tvg-logo="http://picon.webhop.net/logo/spain/caza_y_pesca_es.png" group-title="SP DOCUMENTALES",ES: Caza y Pesca
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14442
+#EXTINF:-1 tvg-ID="VJR ASTRA SD 2.sp" tvg-name="ES: Viajar" tvg-logo="http://picon.webhop.net/logo/spain/viajar.png" group-title="SP DOCUMENTALES",ES: Viajar
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14434
+#EXTINF:-1 tvg-ID="BIOGRA ASTRA SD 1.sp" tvg-name="ES: A&E" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7" group-title="SP TDT",ES: A&E
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14443
+#EXTINF:-1 tvg-ID="ODISEA ASTRA SD 1.sp" tvg-name="ES: Odisea" tvg-logo="http://picon.webhop.net/logo/spain/odisea_es.png" group-title="SP DOCUMENTALES",ES: Odisea
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/14435
+#EXTINF:-1 tvg-ID="" tvg-name="------ AUTONOMICOS ------" tvg-logo="http://picon.webhop.net/logo/flag/spain.png" group-title="",------ AUTONOMICOS ------
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/178156
+#EXTINF:-1 tvg-ID="MV3 ASTRA HD 1.sp" tvg-name="ES: #0 HD" tvg-logo="http://picon.webhop.net/logo/spain/movistar_es_0.png" group-title="SP TDT",ES: #0 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/135848
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: #0 FHD" tvg-logo="" group-title="SPAIN",ES: #0 FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211007
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: BLAZE" tvg-logo="" group-title="SP DOCUMENTALES",ES: BLAZE
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/208273
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL COCINA" tvg-logo="" group-title="SP ESTILO DE VIDA",ES: CANAL COCINA
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/208274
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL GOL" tvg-logo="" group-title="SP DEPORTES",ES: CANAL GOL
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/208275
+#EXTINF:-1 tvg-ID="PANDA ASTRA SD 1.sp" tvg-name="ES: CANAL PANDA" tvg-logo="" group-title="SP INFANTIL",ES: CANAL PANDA
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/208276
+#EXTINF:-1 tvg-ID="DCH TDT SD 3.sp" tvg-name="ES: Disney Channel" tvg-logo="" group-title="SP INFANTIL",ES: Disney Channel
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/208278
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: AMC FHD" tvg-logo="" group-title="SPAIN",ES: AMC FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211011
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: AXN White" tvg-logo="" group-title="SPAIN",ES: AXN White
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211015
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Calle 13 FHD" tvg-logo="" group-title="SPAIN",ES: Calle 13 FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211019
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Caza y Pesca FHD" tvg-logo="" group-title="SPAIN",ES: Caza y Pesca FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211030
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Comedy Central FHD" tvg-logo="" group-title="SPAIN",ES: Comedy Central FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211031
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Condavision" tvg-logo="" group-title="SPAIN",ES: Condavision
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211033
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: DE PELICULA" tvg-logo="" group-title="SPAIN",ES: DE PELICULA
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211118
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Decasa" tvg-logo="" group-title="SPAIN",ES: Decasa
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211038
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="SPAIN",ES: DISNEY XD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211041
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: DIVINITY" tvg-logo="" group-title="SP INFANTIL",ES: DIVINITY
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211042
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Energy" tvg-logo="" group-title="SPAIN",ES: Energy
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211044
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: FOX LIFE FHD" tvg-logo="" group-title="SPAIN",ES: FOX LIFE FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211052
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Gol TV HD" tvg-logo="" group-title="SPAIN",ES: Gol TV HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211053
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M SERIES" tvg-logo="" group-title="SPAIN",ES: M SERIES
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211061
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Mezzo Live FHD" tvg-logo="" group-title="SPAIN",ES: Mezzo Live FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211062
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MOVISTAR  FUTBOL HD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR  FUTBOL HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211064
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar Comedia FHD" tvg-logo="" group-title="SPAIN",ES: Movistar Comedia FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211069
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar DCine" tvg-logo="" group-title="SPAIN",ES: Movistar DCine
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211070
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar Estrenos FHD" tvg-logo="" group-title="SPAIN",ES: Movistar Estrenos FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211072
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Movistar Golf FHD" tvg-logo="" group-title="SPAIN",ES: Movistar Golf FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211076
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Liga de Campeones 1 HD" tvg-logo="" group-title="SPAIN",ES: Movistar Liga de Campeones 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211144
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR MOTO GP HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR MOTO GP HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211079
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MTV ESPAÑA" tvg-logo="" group-title="SPAIN",ES: MTV ESPAÑA
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211085
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: National Geographic FHD" tvg-logo="" group-title="SPAIN",ES: National Geographic FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211088
+#EXTINF:-1 tvg-ID="" tvg-name="ES: National Geographic Wild FHD" tvg-logo="" group-title="SPAIN",ES: National Geographic Wild FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211090
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: NICKELODEON" tvg-logo="" group-title="SPAIN",ES: NICKELODEON
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: PARAMOUNT CH" tvg-logo="" group-title="SPAIN",ES: PARAMOUNT CH
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Real Madrid tv HD" tvg-logo="" group-title="SPAIN",ES: Real Madrid tv HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211095
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Sundance" tvg-logo="" group-title="SPAIN",ES: Sundance
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211097
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TCM FHD" tvg-logo="" group-title="SPAIN",ES: TCM FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TELECINCO" tvg-logo="" group-title="SPAIN",ES: TELECINCO
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211124
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TELECINCO FHD" tvg-logo="" group-title="SPAIN",ES: TELECINCO FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211125
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="" group-title="SPAIN",ES: TELEDEPORTE FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211126
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TNT FHD" tvg-logo="" group-title="SPAIN",ES: TNT FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TOROS FHD" tvg-logo="" group-title="SPAIN",ES: TOROS FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211127
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TOROS HD" tvg-logo="" group-title="SPAIN",ES: TOROS HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211104
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TV Galicia" tvg-logo="" group-title="SPAIN",ES: TV Galicia
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TV3 24" tvg-logo="" group-title="SPAIN",ES: TV3 24
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211108
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CineDoc&Roll HD" tvg-logo="" group-title="SPAIN",ES: CineDoc&Roll HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211173
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Clan Tve HD" tvg-logo="" group-title="SPAIN",ES: Clan Tve HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211170
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Cosmo HD" tvg-logo="" group-title="SPAIN",ES: Cosmo HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211184
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: DAZN SPAIN" tvg-logo="" group-title="SP DEPORTES",ES: DAZN SPAIN
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211207
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Eurosport 2" tvg-logo="" group-title="SP DEPORTES",ES: Eurosport 2
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211210
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: FDF" tvg-logo="" group-title="SPAIN",ES: FDF
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211185
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Hollywood HD" tvg-logo="" group-title="SPAIN",ES: Hollywood HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211179
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Accion HD" tvg-logo="" group-title="SPAIN",ES: M. Accion HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211174
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: ARAGON TV HD" tvg-logo="" group-title="SPAIN",ES: ARAGON TV HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211177
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Comedia HD" tvg-logo="" group-title="SPAIN",ES: M. Comedia HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211175
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1 HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Deportes 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211187
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 2 HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Deportes 2 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211188
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Disney HD" tvg-logo="" group-title="SPAIN",ES: M. Disney HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211178
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Drama HD" tvg-logo="" group-title="SPAIN",ES: M. Drama HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211176
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Estrenos HD" tvg-logo="" group-title="SPAIN",ES: M. Estrenos HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211172
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Formula 1 HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Formula 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211208
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Laliga 1 HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Laliga 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211202
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Laliga 2 HD  (Solo Eventos)" tvg-logo="" group-title="SP DEPORTES",ES: M. Laliga 2 HD  (Solo Eventos)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211203
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Laliga 3 HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Laliga 3 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211204
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Laliga HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Laliga HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211201
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Laliga Tv Bar HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Laliga Tv Bar HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211205
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 1 HD (Only Event)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 1 HD (Only Event)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211192
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 2 HD (Only Event)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 2 HD (Only Event)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211193
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 3 HD (Only Event)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 3 HD (Only Event)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211194
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 4 HD - (Only Events)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 4 HD - (Only Events)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211195
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 5 HD - (Only Events)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 5 HD - (Only Events)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211196
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 6 HD - (Only Events)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 6 HD - (Only Events)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211197
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 7 HD - (Only Events)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 7 HD - (Only Events)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211198
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 8 HD - (Only Events)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 8 HD - (Only Events)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211199
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones 9 HD - (Only Events)" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones 9 HD - (Only Events)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211200
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga de Campeones HD" tvg-logo="" group-title="SP DEPORTES",ES: M. Liga de Campeones HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211191
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TCM HD" tvg-logo="" group-title="SPAIN",ES: TCM HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211180
+#EXTINF:-1 tvg-ID="" tvg-name="ES: VIAJAR FHD" tvg-logo="" group-title="SPAIN",ES: VIAJAR FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211114
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: BEIN LALIGA 1HD  (Solo Eventos)" tvg-logo="" group-title="SP DEPORTES",ES: BEIN LALIGA 1HD  (Solo Eventos)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220944
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LA LIGA FULLHD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LA LIGA FULLHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220943
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: COSMO FHD 4K" tvg-logo="" group-title="SP DEPORTES",ES: COSMO FHD 4K
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220931
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="" group-title="SP DEPORTES",ES: EUROSPORT 2 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220935
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: GOL" tvg-logo="" group-title="SP DEPORTES",ES: GOL
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220945
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA 1 HD HEVC" tvg-logo="" group-title="SP DEPORTES",ES: LA 1 HD HEVC
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220930
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA LIGA 2 TV HD" tvg-logo="" group-title="SP DEPORTES",ES: LA LIGA 2 TV HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220939
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: LA LIGA TV BAR 1 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220973
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA LIGA TV BAR 2 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: LA LIGA TV BAR 2 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220972
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA LIGA TV BAR 3 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: LA LIGA TV BAR 3 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220971
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA LIGA TV BAR 4 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: LA LIGA TV BAR 4 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220970
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA LIGA TV BAR HD" tvg-logo="" group-title="SP DEPORTES",ES: LA LIGA TV BAR HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220975
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LA LIGA TV HD BAR" tvg-logo="" group-title="SP DEPORTES",ES: LA LIGA TV HD BAR
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220934
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOTOGP HD (Solo Eventos)" tvg-logo="" group-title="SP DEPORTES",ES: MOTOGP HD (Solo Eventos)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220950
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR ACCION HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220969
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR CINE DOC&ROLL HD HEVC" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR CINE DOC&ROLL HD HEVC
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220958
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR COMEDIA FHD 4K" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR COMEDIA FHD 4K
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220933
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR COMEDIA HD HEVC" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR COMEDIA HD HEVC
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220957
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR DEPORTE 1 HD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR DEPORTE 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220940
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR DEPORTE 2 HD (Solo Eventos)" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR DEPORTE 2 HD (Solo Eventos)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220941
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR DEPORTES 3 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR DEPORTES 3 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220968
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR DEPORTES HD HEVC" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR DEPORTES HD HEVC
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220967
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR ESTRENOS HD HEVC" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR ESTRENOS HD HEVC
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220956
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR FORMULA 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220947
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR FORMULA 1 FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220955
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR GOLF FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220965
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: BEIN LA LIGA 1 HD" tvg-logo="" group-title="SP DEPORTES",ES: BEIN LA LIGA 1 HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220964
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: LIGATV FHD" tvg-logo="" group-title="SP DEPORTES",ES: LIGATV FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220963
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LA LIGA 2 HD  (Solo Eventos)" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LA LIGA 2 HD  (Solo Eventos)
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220962
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LA LIGA 3 HD [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LA LIGA 3 HD [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220961
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: BEIN LALIGA HD" tvg-logo="" group-title="SP DEPORTES",ES: BEIN LALIGA HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220960
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LIGA CAMPEONES 1 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LIGA CAMPEONES 1 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220954
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220953
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LIGA CAMPEONES 3 [LIVE-EVENT]" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LIGA CAMPEONES 3 [LIVE-EVENT]
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220952
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LIGA CAMPEONES FHD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LIGA CAMPEONES FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220937
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LIGA CAMPEONES HD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LIGA CAMPEONES HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220938
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR LIGA CAMPEONES HEVC" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR LIGA CAMPEONES HEVC
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220951
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR PARTIDAZO HD ( LIVE EVENT )" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR PARTIDAZO HD ( LIVE EVENT )
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220936
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="" group-title="SP DEPORTES",ES: MOVISTAR SERIES FHD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/220959
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Seriemania" tvg-logo="" group-title="SPAIN",ES: M. Seriemania
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211182
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Series HD" tvg-logo="" group-title="SPAIN",ES: M. Series HD
+http://maxhd.eu:8080/ZHUBY8qtiE/9k9OgxO9rW/211181
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Aladin2019" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Aladin2019
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229523.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Aniquilacion" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Aniquilacion
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229524.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Annabelle vuelve a casa" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Annabelle vuelve a casa
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229525.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Capitana Marvel" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Capitana Marvel
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229526.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Casi Imposible" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Casi Imposible
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229527.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Como Pez Fuera del Agua" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Como Pez Fuera del Agua
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229528.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Corgi" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Corgi
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229529.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Diecisiete" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Diecisiete
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229530.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Driven El origen de la leyenda" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Driven El origen de la leyenda
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229531.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): días sin mamá" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): días sin mamá
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229532.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): El Camino" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): El Camino
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229533.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): El Grins" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): El Grins
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229534.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Eli" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Eli
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229535.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): El Juego del Asesino" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): El Juego del Asesino
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229536.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  El Lado Siniestro De La Luna" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  El Lado Siniestro De La Luna
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229537.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): El Rey Leon" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): El Rey Leon
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229538.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): El Sol También Es Una Estrella" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): El Sol También Es Una Estrella
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229539.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): El Sotano de Ma" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): El Sotano de Ma
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229540.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Enemigos Intimos" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Enemigos Intimos
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229541.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): En la hierba alta" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): En la hierba alta
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229542.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Estafadores" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Estafadores
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229543.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Fractura" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Fractura
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229544.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Gloia Bell" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Gloia Bell
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229545.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Godzilla El Rey De Los Monstruos" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Godzilla El Rey De Los Monstruos
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229546.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Hellboy" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Hellboy
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229547.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Hotel Artemis" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Hotel Artemis
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229548.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Hotel Transilvania 3: Unas vacaciones monstruosas" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Hotel Transilvania 3: Unas vacaciones monstruosas
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229549.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Hurricain" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Hurricain
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229550.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Infiltrado en Miami" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Infiltrado en Miami
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229551.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  In The Shadow of the Moon" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  In The Shadow of the Moon
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229552.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  John Wick Capitulo 3" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  John Wick Capitulo 3
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229553.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Kreepers" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Kreepers
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229554.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): La cabaña" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): La cabaña
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229555.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): La Cancion De Mi Padre" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): La Cancion De Mi Padre
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229556.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  La Corresponsal" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  La Corresponsal
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229557.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): La forma del agua" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): La forma del agua
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229558.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  La Ultima Leccion" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  La Ultima Leccion
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229559.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  La Viuda" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  La Viuda
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229560.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Liga de la Justicia" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Liga de la Justicia
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229561.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Lo dejo Cuando Quiera" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Lo dejo Cuando Quiera
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229562.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Me Llamo Gennet" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Me Llamo Gennet
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229563.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Men in Black: International" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Men in Black: International
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229564.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): MR. link: el origen perdido" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): MR. link: el origen perdido
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229565.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Mug" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Mug
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229566.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Mula" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Mula
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229567.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Nescesitamos tu Voto" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Nescesitamos tu Voto
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229568.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Oscar Wilde" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Oscar Wilde
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229569.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Rocketman" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Rocketman
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229570.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Sombra" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Sombra
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229571.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Spider-man: lejos de casa" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Spider-man: lejos de casa
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229572.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Stuber Express" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Stuber Express
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229573.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Super Empollonas" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Super Empollonas
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229574.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): The Laundromat: Dinero sucio" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): The Laundromat: Dinero sucio
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229575.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): The Prodigy" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): The Prodigy
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229576.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): The Tobacconist" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): The Tobacconist
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229577.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Timadoras Compulsivas" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Timadoras Compulsivas
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229578.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Todo por Grace" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Todo por Grace
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229579.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Tolkien" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Tolkien
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229580.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Toy Story 4" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Toy Story 4
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229581.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Una Nueva Identidad" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Una Nueva Identidad
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229582.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Una Pequeña Mentira" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Una Pequeña Mentira
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229583.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Un Hombre Fiel" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Un Hombre Fiel
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229584.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Vengadores: Endgame" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Vengadores: Endgame
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229585.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Victoria 3 de marzo" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Victoria 3 de marzo
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229586.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Voces Ocultas" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Voces Ocultas
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229587.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-): Wounds" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-): Wounds
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229588.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="(ES-):  Xmen Fenix Oscura" tvg-logo="" group-title="(V|SP) Movies - SP",(ES-):  Xmen Fenix Oscura
+http://maxhd.eu:8080/movie/ZHUBY8qtiE/9k9OgxO9rW/229589.mkv
