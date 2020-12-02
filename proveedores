@@ -1,0 +1,44 @@
+  "mejortorrent1": {
+    "name": "mejortorrent1",
+    "enabled": true,
+    "languages": [
+      "es"
+    ],
+    "base_url": "https://mejortorrent1.net",
+    "response_type": "text",
+    "separator": "+",
+    "source_is_in_sub_page": true,
+    "movie": {
+      "query": "/search?q={query}",
+      "keywords": "{title} {year}"
+    },
+    "episode": {
+      "query": "/search?q={query}",
+      "keywords": "{title} {episodeCode}"
+    },
+    "season": {
+      "query": "/search?q={query}",
+      "keywords": [
+        "{title} {seasonCode}",
+        "{title} season"
+      ]
+    },
+    "anime": {
+      "query": "/search?q={query}",
+      "keywords": "{title} {absoluteNumber}"
+    },
+    "html_parser": {
+      "row": "doc.querySelectorAll('table:nth-of-type(2) tbody tr:not(:first-child)')",
+      "title": "row.querySelector('.tt-name a').textContent",
+      "peers": "row.querySelector('.tdleech').textContent.replace(',','')",
+      "seeds": "row.querySelector('.tdseed').textContent.replace(',','')",
+      "size": "row.querySelector('.tdnormal:nth-of-type(3)').textContent",
+      "url": "row.querySelector('.tt-name a').getAttribute('href')"
+    },
+    "title_replacement": {
+      ".": "",
+      ":": "",
+      "'": "",
+      "&": ""
+    }
+  }
