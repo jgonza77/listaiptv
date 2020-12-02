@@ -1,11 +1,11 @@
   {
-  "mejortorrent1": {
-    "name": "mejortorrent1",
+  "ettv": {
+    "name": "ettv",
     "enabled": true,
     "languages": [
-      "es"
+      "en"
     ],
-    "base_url": "https://mejortorrent1.net",
+    "base_url": "https://www.ettvcentral.com",
     "response_type": "text",
     "separator": "+",
     "source_is_in_sub_page": true,
